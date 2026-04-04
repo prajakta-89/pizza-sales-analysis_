@@ -44,7 +44,7 @@ To analyze sales performance and provide actionable insights to improve revenue 
 - Introduce combo offers or promotions  
 
 ## 📊 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 📂 Files in Repository
 - `sql_queries.sql` → SQL queries used  
