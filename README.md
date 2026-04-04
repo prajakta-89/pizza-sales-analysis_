@@ -54,3 +54,57 @@ To analyze sales performance and provide actionable insights to improve revenue 
 
 ## 📈 Outcome
 This project provides data-driven insights to improve sales strategy and business performance.
+
+## 📊 Pizza Sales Analysis - SQL Outputs
+
+This section presents key insights derived from SQL queries performed on the pizza sales dataset. The analysis helps understand sales trends, customer behavior, and overall business performance.
+
+### 📅 Orders by Day of the Week
+
+This analysis shows the number of orders placed on each day of the week.
+
+![Orders by Day](sql_outputs/orders_per_week_days.jpeg)
+
+**Insights:**
+
+* Highest orders are recorded on **Friday (3538 orders)** and **Thursday (3239 orders)**.
+* Weekends like **Saturday (3158)** and **Sunday (2624)** also show strong sales.
+* **Monday (2794)** and **Tuesday (2973)** have comparatively lower orders.
+
+### 🍕 Total Pizza Sold
+
+This metric represents the total number of pizzas sold.
+
+![Total Pizza Sold](sql_outputs/total_pizza_sold.jpeg)
+
+**Insight:**
+
+* A total of **49,574 pizzas** were sold, indicating strong overall demand.
+  
+### 💰 Average Order Value
+
+This shows the average amount spent per order.
+
+![Average Order Value](sql_outputs/avg_order_value.jpeg)
+
+**Insight:**
+
+* The average order value is approximately **38.31**, which helps in understanding customer spending behavior.
+
+### 💵 Total Revenue
+
+This represents the total revenue generated from all pizza sales.
+
+![Total Revenue](pizza_sales_results/total_revenue.png)
+
+**Insight:**
+
+* Total revenue generated is approximately **817,860**, showing the overall business performance.
+
+## 🚀 Conclusion
+
+The analysis highlights that:
+
+* Sales peak towards the **end of the week**.
+* The business has strong revenue generation and consistent customer demand.
+* These insights can help in **inventory planning, staffing, and marketing strategies**.
