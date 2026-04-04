@@ -45,6 +45,7 @@ To analyze sales performance and provide actionable insights to improve revenue 
 
 ## 📊 Dashboard Preview
 ![Dashboard](dashboard.png)
+![Dashboard2](dashboard2.png)
 
 ## 📂 Files in Repository
 - `sql_queries.sql` → SQL queries used  
