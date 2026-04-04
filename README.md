@@ -43,8 +43,9 @@ To analyze sales performance and provide actionable insights to improve revenue 
 - Optimize staffing during peak hours  
 - Introduce combo offers or promotions  
 
-## 📊 Dashboard Preview
+## 📊 Dashboards Preview
 ![Dashboard](dashboard.png)
+
 ![Dashboard2](dashboard2.png)
 
 ## 📂 Files in Repository
