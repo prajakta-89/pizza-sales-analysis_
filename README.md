@@ -63,7 +63,7 @@ This section presents key insights derived from SQL queries performed on the piz
 
 This analysis shows the number of orders placed on each day of the week.
 
-![Orders by Day](sql_outputs/orders_per_week_days.jpeg)
+![Orders by Day](pizza_sales_results/orderday_total_orders.png)
 
 **Insights:**
 
@@ -75,7 +75,7 @@ This analysis shows the number of orders placed on each day of the week.
 
 This metric represents the total number of pizzas sold.
 
-![Total Pizza Sold](sql_outputs/total_pizza_sold.jpeg)
+![Total Pizza Sold](pizza_sales_results/Total_pizza_sold.png)
 
 **Insight:**
 
@@ -85,7 +85,7 @@ This metric represents the total number of pizzas sold.
 
 This shows the average amount spent per order.
 
-![Average Order Value](sql_outputs/avg_order_value.jpeg)
+![Average Order Value](pizza_sales_results/avg_order_value.png)
 
 **Insight:**
 
