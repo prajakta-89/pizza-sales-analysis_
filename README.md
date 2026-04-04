@@ -85,7 +85,7 @@ This metric represents the total number of pizzas sold.
 
 This shows the average amount spent per order.
 
-![Average Order Value](pizza_sales_results/avg_order_value.png)
+![Average Order Value](pizza_sales_results/Avg_order_value.png)
 
 **Insight:**
 
