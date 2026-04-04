@@ -101,6 +101,24 @@ This represents the total revenue generated from all pizza sales.
 
 * Total revenue generated is approximately **817,860**, showing the overall business performance.
 
+### 📅 Monthly Sales Analysis
+- Identified total orders by month  
+- Observed variations in demand across months
+
+  ![Monthly Sales](pizza_sales_results/month_name_total_orders.png)
+  
+### 📆 Day-wise Sales Analysis
+- Analyzed total orders by day of the week  
+- Identified peak and low-performing days
+- 
+  ![Day-wise Sales](pizza_sales_results/orderday_total_orders.png)
+  
+### 🍕 Category-wise Sales Analysis
+- Calculated total sales by pizza category  
+- Derived percentage contribution of each category 
+
+  ![Category Sales](pizza_sales_results/pizza_category_pct.png)
+  
 ## 🚀 Conclusion
 
 The analysis highlights that:
