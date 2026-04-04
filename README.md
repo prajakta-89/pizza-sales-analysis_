@@ -95,7 +95,7 @@ This shows the average amount spent per order.
 
 This represents the total revenue generated from all pizza sales.
 
-![Total Revenue](pizza_sales_results/total_revenue.png)
+![Total Revenue](pizza_sales_results/Total_revenue.png)
 
 **Insight:**
 
