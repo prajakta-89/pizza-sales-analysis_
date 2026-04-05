@@ -1,7 +1,7 @@
 # pizza-sales-analysis_
 This project demonstrates the ability to: - Perform end-to-end data analysis   - Extract meaningful insights from raw data   - Build interactive dashboards   - Apply business thinking to solve real-world problems  
 
-# 🍕 Pizza Sales Analysis (SQL + Power BI)
+## 🍕 Pizza Sales Analysis (SQL + Power BI)
 
 ## Project Overview
 This project analyzes pizza sales data to uncover business insights such as revenue trends, best-selling pizzas, and customer ordering behavior.
@@ -44,9 +44,13 @@ To analyze sales performance and provide actionable insights to improve revenue 
 - Introduce combo offers or promotions  
 
 ## 📊 Dashboards Preview
-![Dashboard](dashboard.png)
+<p align="center">
+  <img src="dashboard.png" width="400"/>
+</p>
 
-![Dashboard2](dashboard2.png)
+<p align="center">
+  <img src="dashboard2.png" width="400"/>
+</p>
 
 ## 📂 Files in Repository
 - `sql_queries.sql` → SQL queries used  
@@ -61,7 +65,7 @@ This project provides data-driven insights to improve sales strategy and busines
 
 This section presents key insights derived from SQL queries performed on the pizza sales dataset. The analysis helps understand sales trends, customer behavior, and overall business performance.
 
-### 📅 Orders by Day of the Week
+## 📅 Orders by Day of the Week
 
 This analysis shows the number of orders placed on each day of the week.
 
@@ -73,7 +77,7 @@ This analysis shows the number of orders placed on each day of the week.
 * Weekends like **Saturday (3158)** and **Sunday (2624)** also show strong sales.
 * **Monday (2794)** and **Tuesday (2973)** have comparatively lower orders.
 
-### 🍕 Total Pizza Sold
+## 🍕 Total Pizza Sold
 
 This metric represents the total number of pizzas sold.
 
@@ -83,7 +87,7 @@ This metric represents the total number of pizzas sold.
 
 * A total of **49,574 pizzas** were sold, indicating strong overall demand.
   
-### 💰 Average Order Value
+## 💰 Average Order Value
 
 This shows the average amount spent per order.
 
@@ -93,7 +97,7 @@ This shows the average amount spent per order.
 
 * The average order value is approximately **38.31**, which helps in understanding customer spending behavior.
 
-### 💵 Total Revenue
+## 💵 Total Revenue
 
 This represents the total revenue generated from all pizza sales.
 
@@ -103,19 +107,19 @@ This represents the total revenue generated from all pizza sales.
 
 * Total revenue generated is approximately **817,860**, showing the overall business performance.
 
-### 📅 Monthly Sales Analysis
+## 📅 Monthly Sales Analysis
 - Identified total orders by month  
 - Observed variations in demand across months
 
   ![Monthly Sales](pizza_sales_results/month_name_total_orders.png)
   
-### 📆 Day-wise Sales Analysis
+## 📆 Day-wise Sales Analysis
 - Analyzed total orders by day of the week  
 - Identified peak and low-performing days
 - 
   ![Day-wise Sales](pizza_sales_results/orderday_total_orders.png)
   
-### 🍕 Category-wise Sales Analysis
+## 🍕 Category-wise Sales Analysis
 - Calculated total sales by pizza category  
 - Derived percentage contribution of each category 
 
