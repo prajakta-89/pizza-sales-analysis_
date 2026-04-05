@@ -45,11 +45,11 @@ To analyze sales performance and provide actionable insights to improve revenue 
 
 ## 📊 Dashboards Preview
 <p>
-  <img src="dashboard.png" width="500"/>
+  <img src="dashboard.png" width="700"/>
 </p>
 
 <p>
-  <img src="dashboard2.png" width="500"/>
+  <img src="dashboard2.png" width="700"/>
 </p>
 
 ## 📂 Files in Repository
