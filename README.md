@@ -44,11 +44,11 @@ To analyze sales performance and provide actionable insights to improve revenue 
 - Introduce combo offers or promotions  
 
 ## 📊 Dashboards Preview
-<p align="center">
+<p>
   <img src="dashboard.png" width="400"/>
 </p>
 
-<p align="center">
+<p>
   <img src="dashboard2.png" width="400"/>
 </p>
 
